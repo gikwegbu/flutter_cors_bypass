@@ -1,3 +1,12 @@
+## 1.0.1 - 2026-10-15
+
+- Added canonical `example/flutter_cors_bypass_example.dart` showcasing programmatic server configuration, shelf handler mounting, and path/query proxy URL generation.
+- Added `example/README.md` with usage instructions and Flutter Web integration snippets.
+- Added open-source `CONTRIBUTING.md` guidelines (and `contributors_guideline.md`).
+- Added Contributing section to `README.md`.
+- Escaped task list markdown brackets in `README.md` to prevent dartdoc unresolved reference warnings.
+- Achieved perfect 160/160 pub points on pub.dev's `pana` package analysis.
+
 ## 1.0.0 - 2026-10-15
 
 ### What Was Done

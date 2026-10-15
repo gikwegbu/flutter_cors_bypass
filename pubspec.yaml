@@ -2,7 +2,7 @@ name: flutter_cors_bypass
 description: >-
   Local development CORS proxy for Flutter Web. Run it on localhost and route
   API calls through it so the browser stops blocking them. Not for deployment.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/gikwegbu/flutter_cors_bypass
 repository: https://github.com/gikwegbu/flutter_cors_bypass
 issue_tracker: https://github.com/gikwegbu/flutter_cors_bypass/issues
