@@ -354,15 +354,15 @@ curl -i -H "Origin: http://localhost:5050" "http://localhost:8080/https/httpbin.
 ## Setup Checklist
 
 Before reporting issues, verify:
-- [ ] Helper `api_url.dart` copied to `lib/core/api_url.dart`.
-- [ ] API base URLs wrapped with `proxied()` and full URLs with `apiUri()`.
-- [ ] Proxy running on `localhost:8080`.
-- [ ] Flutter app launched with `--dart-define=PROXY_BASE=http://localhost:8080`.
-- [ ] `flutter run` completely stopped and restarted after modifying `--dart-define`.
-- [ ] Flutter web port is free (e.g. port 5050, avoiding macOS AirPlay on port 5000).
-- [ ] Build is non-release (e.g. debug or `--profile`).
-- [ ] Browser DevTools confirms requests hit `http://localhost:8080/...`.
-- [ ] Proxy terminal displays corresponding request logs.
+- \[ \] Helper `api_url.dart` copied to `lib/core/api_url.dart`.
+- \[ \] API base URLs wrapped with `proxied()` and full URLs with `apiUri()`.
+- \[ \] Proxy running on `localhost:8080`.
+- \[ \] Flutter app launched with `--dart-define=PROXY_BASE=http://localhost:8080`.
+- \[ \] `flutter run` completely stopped and restarted after modifying `--dart-define`.
+- \[ \] Flutter web port is free (e.g. port 5050, avoiding macOS AirPlay on port 5000).
+- \[ \] Build is non-release (e.g. debug or `--profile`).
+- \[ \] Browser DevTools confirms requests hit `http://localhost:8080/...`.
+- \[ \] Proxy terminal displays corresponding request logs.
 
 ---
 
