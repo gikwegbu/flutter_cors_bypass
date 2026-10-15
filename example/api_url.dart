@@ -55,7 +55,7 @@ String proxied(String baseUrl) {
 ///     'Content-Type': 'application/json',
 ///     'Authorization': 'Bearer $token',
 ///   },
-///   body: jsonEncode({'name': 'Ada'}),
+///   body: jsonEncode({'fullname': 'George Ikwegbu'}),
 /// );
 /// ```
 Uri apiUri(String targetUrl) {

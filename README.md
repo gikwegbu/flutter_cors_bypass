@@ -385,6 +385,12 @@ dart run coverage:format_coverage --lcov --in=coverage --out=coverage/lcov.info 
 
 ---
 
+## Contributing
+
+`flutter_cors_bypass` is open source, and contributions are warmly welcome! Whether you are reporting an issue, proposing enhancements, or submitting a pull request, please review our [Contributing Guidelines](CONTRIBUTING.md) (or [contributors_guideline.md](contributors_guideline.md)) to get started.
+
+---
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
